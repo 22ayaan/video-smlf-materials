@@ -31,6 +31,7 @@
 /// THE SOFTWARE.
 
 import Foundation
+import MapKit
 
 final class Place: Decodable {
   let name: String
@@ -38,7 +39,10 @@ final class Place: Decodable {
   let sponsored: Bool
   let details: String
   let overlay: Bool
-
+  let location: CLLocation
+    private let regionRadius: CLLocationDistance = 1000
+    let region: MKCoordinateRegion
+    
   init(from decoder: Decoder) throws {
 
     enum CodingKey: Swift.CodingKey {
@@ -47,6 +51,7 @@ final class Place: Decodable {
       case sponsored
       case details
       case overlay
+      case 
     }
 
     let values = try decoder.container(keyedBy: CodingKey.self)

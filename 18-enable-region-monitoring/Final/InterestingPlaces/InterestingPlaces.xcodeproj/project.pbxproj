@@ -344,7 +344,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"InterestingPlaces/Preview Content\"";
-				DEVELOPMENT_TEAM = KFCNEC27GU;
+				DEVELOPMENT_TEAM = G8PK233G6T;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = InterestingPlaces/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -352,7 +352,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.InterestingPlaces;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ayaan22.InterestingPlaces;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -366,7 +366,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"InterestingPlaces/Preview Content\"";
-				DEVELOPMENT_TEAM = KFCNEC27GU;
+				DEVELOPMENT_TEAM = G8PK233G6T;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = InterestingPlaces/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -374,7 +374,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.InterestingPlaces;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ayaan22.InterestingPlaces;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
